@@ -10,12 +10,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://wallpapercat.com/boy-programmer-wallpapers"  />
-</div>
-
-###
-
 <p align="left">✨ Creating bugs since my first “Hello World”<br>📚 I’m currently learning Python, Data Science, AI/ML, and full-stack web development<br>🎯 Goals: Build intelligent, data-driven applications and grow as a software engineer<br>🎲 Fun fact: I break code just to understand how it works</p>
 
 ###
@@ -82,17 +76,16 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarangkale-crypto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarangkale-crypto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarangkale-crypto/sarangkale-crypto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarangkale-crypto/sarangkale-crypto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sarangkale-crypto/sarangkale-crypto/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -104,19 +97,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarangkale-crypto.sarangkale-crypto&"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarangkale-crypto/sarangkale-crypto/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarangkale-crypto/sarangkale-crypto/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sarangkale-crypto/sarangkale-crypto/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
