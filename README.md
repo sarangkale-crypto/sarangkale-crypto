@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Anime%20GIFs/Lofi-girl.gif" width="100%" alt="anime coding banner"/>
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/main/assets/head.gif" width="100%" alt="anime coding banner"/>
 
 ---
 
@@ -37,12 +37,10 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarangkale-crypto&show_icons=true&theme=tokyonight&hide_border=true" alt="Sarang's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangkale-crypto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarangkale-crypto&show_icons=true&theme=tokyonight&hide_border=false" alt="Sarang's Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarangkale-crypto&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="180" />
 </p>
-
-> [!NOTE]
-> The **Pacman Graph** requires a GitHub Action to be running in your repository. If you haven't set up the `.yml` file in your `.github/workflows` folder, the image will not appear.
 
 ---
 
